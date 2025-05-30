@@ -1,500 +1,616 @@
-Facebook(facebook.exe)
-Instagram(instagram.exe)
-Twitter(twitter.exe)
-TikTok(tiktok.exe)
-Snapchat(snapchat.exe)
-LinkedIn(linkedin.exe)
-Reddit(reddit.exe)
-Pinterest(pinterest.exe)
-Tumblr(tumblr.exe)
-Telegram(telegram.exe)
-WeChat(wechat.exe)
-VK(vk.exe)
-LINE(line.exe)
-WhatsApp(whatsapp.exe)
-Messenger(messenger.exe)
-Skype(skype.exe)
-Zoom(zoom.exe)
-Slack(slack.exe)
-Discord(discord.exe)
-Microsoft Teams(teams.exe)
-Signal(signal.exe)
-Viber(viber.exe)
-ICQ(icq.exe)
-Wire(wire.exe)
-Element(element.exe)
-Google Meet(meet.exe)
-Adobe Photoshop(photoshop.exe)
-GIMP(gimp.exe)
-CorelDRAW(coreldraw.exe)
-Adobe Illustrator(illustrator.exe)
-Paint.NET(paintdotnet.exe)
-Inkscape(inkscape.exe)
-Affinity Designer(affinitydesigner.exe)
-Krita(krita.exe)
-Blender(blender.exe)
-Autodesk Sketchbook(sketchbook.exe)
-Canva(canva.exe)
-Adobe XD(adobexd.exe)
-Figma(figma.exe)
-Microsoft Word(word.exe)
-Microsoft Excel(excel.exe)
-Microsoft PowerPoint(powerpoint.exe)
-WPS Office(wps.exe)
-LibreOffice(libreo.exe)
-Google Docs(docs.exe)
-Notepad++(notepadpp.exe)
-OneNote(onenote.exe)
-Evernote(evernote.exe)
-Zoho Writer(zoho.exe)
-Scrivener(scrivener.exe)
-FocusWriter(focuswriter.exe)
-Typora(typora.exe)
-VLC Media Player(vlc.exe)
-Spotify(spotify.exe)
-Netflix(netflix.exe)
-YouTube(youtube.exe)
-iTunes(itunes.exe)
-Kodi(kodi.exe)
-Plex(plex.exe)
-Media Player Classic(mpc.exe)
-Winamp(winamp.exe)
-Audacity(audacity.exe)
-PotPlayer(potplayer.exe)
-GOM Player(gom.exe)
-TIDAL(tidal.exe)
-Facebook(facebook.exe)
-Instagram(instagram.exe)
-Twitter(twitter.exe)
-TikTok(tiktok.exe)
-Snapchat(snapchat.exe)
-LinkedIn(linkedin.exe)
-Reddit(reddit.exe)
-Pinterest(pinterest.exe)
-Tumblr(tumblr.exe)
-Telegram(telegram.exe)
-WeChat(wechat.exe)
-VK(vk.exe)
-LINE(line.exe)
-WhatsApp(whatsapp.exe)
-Messenger(messenger.exe)
-Skype(skype.exe)
-Zoom(zoom.exe)
-Slack(slack.exe)
-Discord(discord.exe)
-Microsoft Teams(teams.exe)
-Signal(signal.exe)
-Viber(viber.exe)
-ICQ(icq.exe)
-Wire(wire.exe)
-Element(element.exe)
-Google Meet(meet.exe)
-Adobe Photoshop(photoshop.exe)
-GIMP(gimp.exe)
-CorelDRAW(coreldraw.exe)
-Adobe Illustrator(illustrator.exe)
-Paint.NET(paintdotnet.exe)
-Inkscape(inkscape.exe)
-Affinity Designer(affinitydesigner.exe)
-Krita(krita.exe)
-Blender(blender.exe)
-Autodesk Sketchbook(sketchbook.exe)
-Canva(canva.exe)
-Adobe XD(adobexd.exe)
-Figma(figma.exe)
-Microsoft Word(word.exe)
-Microsoft Excel(excel.exe)
-Microsoft PowerPoint(powerpoint.exe)
-WPS Office(wps.exe)
-LibreOffice(libreo.exe)
-Google Docs(docs.exe)
-Notepad++(notepadpp.exe)
-OneNote(onenote.exe)
-Evernote(evernote.exe)
-Zoho Writer(zoho.exe)
-Scrivener(scrivener.exe)
-FocusWriter(focuswriter.exe)
-Typora(typora.exe)
-VLC Media Player(vlc.exe)
-Spotify(spotify.exe)
-Netflix(netflix.exe)
-YouTube(youtube.exe)
-iTunes(itunes.exe)
-Kodi(kodi.exe)
-Plex(plex.exe)
-Media Player Classic(mpc.exe)
-Winamp(winamp.exe)
-Audacity(audacity.exe)
-PotPlayer(potplayer.exe)
-GOM Player(gom.exe)
-TIDAL(tidal.exe)
-Facebook(facebook.exe)
-Instagram(instagram.exe)
-Twitter(twitter.exe)
-TikTok(tiktok.exe)
-Snapchat(snapchat.exe)
-LinkedIn(linkedin.exe)
-Reddit(reddit.exe)
-Pinterest(pinterest.exe)
-Tumblr(tumblr.exe)
-Telegram(telegram.exe)
-WeChat(wechat.exe)
-VK(vk.exe)
-LINE(line.exe)
-WhatsApp(whatsapp.exe)
-Messenger(messenger.exe)
-Skype(skype.exe)
-Zoom(zoom.exe)
-Slack(slack.exe)
-Discord(discord.exe)
-Microsoft Teams(teams.exe)
-Signal(signal.exe)
-Viber(viber.exe)
-ICQ(icq.exe)
-Wire(wire.exe)
-Element(element.exe)
-Google Meet(meet.exe)
-Adobe Photoshop(photoshop.exe)
-GIMP(gimp.exe)
-CorelDRAW(coreldraw.exe)
-Adobe Illustrator(illustrator.exe)
-Paint.NET(paintdotnet.exe)
-Inkscape(inkscape.exe)
-Affinity Designer(affinitydesigner.exe)
-Krita(krita.exe)
-Blender(blender.exe)
-Autodesk Sketchbook(sketchbook.exe)
-Canva(canva.exe)
-Adobe XD(adobexd.exe)
-Figma(figma.exe)
-Microsoft Word(word.exe)
-Microsoft Excel(excel.exe)
-Microsoft PowerPoint(powerpoint.exe)
-WPS Office(wps.exe)
-LibreOffice(libreo.exe)
-Google Docs(docs.exe)
-Notepad++(notepadpp.exe)
-OneNote(onenote.exe)
-Evernote(evernote.exe)
-Zoho Writer(zoho.exe)
-Scrivener(scrivener.exe)
-FocusWriter(focuswriter.exe)
-Typora(typora.exe)
-VLC Media Player(vlc.exe)
-Spotify(spotify.exe)
-Netflix(netflix.exe)
-YouTube(youtube.exe)
-iTunes(itunes.exe)
-Kodi(kodi.exe)
-Plex(plex.exe)
-Media Player Classic(mpc.exe)
-Winamp(winamp.exe)
-Audacity(audacity.exe)
-PotPlayer(potplayer.exe)
-GOM Player(gom.exe)
-TIDAL(tidal.exe)
-Facebook(facebook.exe)
-Instagram(instagram.exe)
-Twitter(twitter.exe)
-TikTok(tiktok.exe)
-Snapchat(snapchat.exe)
-LinkedIn(linkedin.exe)
-Reddit(reddit.exe)
-Pinterest(pinterest.exe)
-Tumblr(tumblr.exe)
-Telegram(telegram.exe)
-WeChat(wechat.exe)
-VK(vk.exe)
-LINE(line.exe)
-WhatsApp(whatsapp.exe)
-Messenger(messenger.exe)
-Skype(skype.exe)
-Zoom(zoom.exe)
-Slack(slack.exe)
-Discord(discord.exe)
-Microsoft Teams(teams.exe)
-Signal(signal.exe)
-Viber(viber.exe)
-ICQ(icq.exe)
-Wire(wire.exe)
-Element(element.exe)
-Google Meet(meet.exe)
-Adobe Photoshop(photoshop.exe)
-GIMP(gimp.exe)
-CorelDRAW(coreldraw.exe)
-Adobe Illustrator(illustrator.exe)
-Paint.NET(paintdotnet.exe)
-Inkscape(inkscape.exe)
-Affinity Designer(affinitydesigner.exe)
-Krita(krita.exe)
-Blender(blender.exe)
-Autodesk Sketchbook(sketchbook.exe)
-Canva(canva.exe)
-Adobe XD(adobexd.exe)
-Figma(figma.exe)
-Microsoft Word(word.exe)
-Microsoft Excel(excel.exe)
-Microsoft PowerPoint(powerpoint.exe)
-WPS Office(wps.exe)
-LibreOffice(libreo.exe)
-Google Docs(docs.exe)
-Notepad++(notepadpp.exe)
-OneNote(onenote.exe)
-Evernote(evernote.exe)
-Zoho Writer(zoho.exe)
-Scrivener(scrivener.exe)
-FocusWriter(focuswriter.exe)
-Typora(typora.exe)
-VLC Media Player(vlc.exe)
-Spotify(spotify.exe)
-Netflix(netflix.exe)
-YouTube(youtube.exe)
-iTunes(itunes.exe)
-Kodi(kodi.exe)
-Plex(plex.exe)
-Media Player Classic(mpc.exe)
-Winamp(winamp.exe)
-Audacity(audacity.exe)
-PotPlayer(potplayer.exe)
-GOM Player(gom.exe)
-TIDAL(tidal.exe)
-Facebook(facebook.exe)
-Instagram(instagram.exe)
-Twitter(twitter.exe)
-TikTok(tiktok.exe)
-Snapchat(snapchat.exe)
-LinkedIn(linkedin.exe)
-Reddit(reddit.exe)
-Pinterest(pinterest.exe)
-Tumblr(tumblr.exe)
-Telegram(telegram.exe)
-WeChat(wechat.exe)
-VK(vk.exe)
-LINE(line.exe)
-WhatsApp(whatsapp.exe)
-Messenger(messenger.exe)
-Skype(skype.exe)
-Zoom(zoom.exe)
-Slack(slack.exe)
-Discord(discord.exe)
-Microsoft Teams(teams.exe)
-Signal(signal.exe)
-Viber(viber.exe)
-ICQ(icq.exe)
-Wire(wire.exe)
-Element(element.exe)
-Google Meet(meet.exe)
-Adobe Photoshop(photoshop.exe)
-GIMP(gimp.exe)
-CorelDRAW(coreldraw.exe)
-Adobe Illustrator(illustrator.exe)
-Paint.NET(paintdotnet.exe)
-Inkscape(inkscape.exe)
-Affinity Designer(affinitydesigner.exe)
-Krita(krita.exe)
-Blender(blender.exe)
-Autodesk Sketchbook(sketchbook.exe)
-Canva(canva.exe)
-Adobe XD(adobexd.exe)
-Figma(figma.exe)
-Microsoft Word(word.exe)
-Microsoft Excel(excel.exe)
-Microsoft PowerPoint(powerpoint.exe)
-WPS Office(wps.exe)
-LibreOffice(libreo.exe)
-Google Docs(docs.exe)
-Notepad++(notepadpp.exe)
-OneNote(onenote.exe)
-Evernote(evernote.exe)
-Zoho Writer(zoho.exe)
-Scrivener(scrivener.exe)
-FocusWriter(focuswriter.exe)
-Typora(typora.exe)
-VLC Media Player(vlc.exe)
-Spotify(spotify.exe)
-Netflix(netflix.exe)
-YouTube(youtube.exe)
-iTunes(itunes.exe)
-Kodi(kodi.exe)
-Plex(plex.exe)
-Media Player Classic(mpc.exe)
-Winamp(winamp.exe)
-Audacity(audacity.exe)
-PotPlayer(potplayer.exe)
-GOM Player(gom.exe)
-TIDAL(tidal.exe)
-Facebook(facebook.exe)
-Instagram(instagram.exe)
-Twitter(twitter.exe)
-TikTok(tiktok.exe)
-Snapchat(snapchat.exe)
-LinkedIn(linkedin.exe)
-Reddit(reddit.exe)
-Pinterest(pinterest.exe)
-Tumblr(tumblr.exe)
-Telegram(telegram.exe)
-WeChat(wechat.exe)
-VK(vk.exe)
-LINE(line.exe)
-WhatsApp(whatsapp.exe)
-Messenger(messenger.exe)
-Skype(skype.exe)
-Zoom(zoom.exe)
-Slack(slack.exe)
-Discord(discord.exe)
-Microsoft Teams(teams.exe)
-Signal(signal.exe)
-Viber(viber.exe)
-ICQ(icq.exe)
-Wire(wire.exe)
-Element(element.exe)
-Google Meet(meet.exe)
-Adobe Photoshop(photoshop.exe)
-GIMP(gimp.exe)
-CorelDRAW(coreldraw.exe)
-Adobe Illustrator(illustrator.exe)
-Paint.NET(paintdotnet.exe)
-Inkscape(inkscape.exe)
-Affinity Designer(affinitydesigner.exe)
-Krita(krita.exe)
-Blender(blender.exe)
-Autodesk Sketchbook(sketchbook.exe)
-Canva(canva.exe)
-Adobe XD(adobexd.exe)
-Figma(figma.exe)
-Microsoft Word(word.exe)
-Microsoft Excel(excel.exe)
-Microsoft PowerPoint(powerpoint.exe)
-WPS Office(wps.exe)
-LibreOffice(libreo.exe)
-Google Docs(docs.exe)
-Notepad++(notepadpp.exe)
-OneNote(onenote.exe)
-Evernote(evernote.exe)
-Zoho Writer(zoho.exe)
-Scrivener(scrivener.exe)
-FocusWriter(focuswriter.exe)
-Typora(typora.exe)
-VLC Media Player(vlc.exe)
-Spotify(spotify.exe)
-Netflix(netflix.exe)
-YouTube(youtube.exe)
-iTunes(itunes.exe)
-Kodi(kodi.exe)
-Plex(plex.exe)
-Media Player Classic(mpc.exe)
-Winamp(winamp.exe)
-Audacity(audacity.exe)
-PotPlayer(potplayer.exe)
-GOM Player(gom.exe)
-TIDAL(tidal.exe)
-Facebook(facebook.exe)
-Instagram(instagram.exe)
-Twitter(twitter.exe)
-TikTok(tiktok.exe)
-Snapchat(snapchat.exe)
-LinkedIn(linkedin.exe)
-Reddit(reddit.exe)
-Pinterest(pinterest.exe)
-Tumblr(tumblr.exe)
-Telegram(telegram.exe)
-WeChat(wechat.exe)
-VK(vk.exe)
-LINE(line.exe)
-WhatsApp(whatsapp.exe)
-Messenger(messenger.exe)
-Skype(skype.exe)
-Zoom(zoom.exe)
-Slack(slack.exe)
-Discord(discord.exe)
-Microsoft Teams(teams.exe)
-Signal(signal.exe)
-Viber(viber.exe)
-ICQ(icq.exe)
-Wire(wire.exe)
-Element(element.exe)
-Google Meet(meet.exe)
-Adobe Photoshop(photoshop.exe)
-GIMP(gimp.exe)
-CorelDRAW(coreldraw.exe)
-Adobe Illustrator(illustrator.exe)
-Paint.NET(paintdotnet.exe)
-Inkscape(inkscape.exe)
-Affinity Designer(affinitydesigner.exe)
-Krita(krita.exe)
-Blender(blender.exe)
-Autodesk Sketchbook(sketchbook.exe)
-Canva(canva.exe)
-Adobe XD(adobexd.exe)
-Figma(figma.exe)
-Microsoft Word(word.exe)
-Microsoft Excel(excel.exe)
-Microsoft PowerPoint(powerpoint.exe)
-WPS Office(wps.exe)
-LibreOffice(libreo.exe)
-Google Docs(docs.exe)
-Notepad++(notepadpp.exe)
-OneNote(onenote.exe)
-Evernote(evernote.exe)
-Zoho Writer(zoho.exe)
-Scrivener(scrivener.exe)
-FocusWriter(focuswriter.exe)
-Typora(typora.exe)
-VLC Media Player(vlc.exe)
-Spotify(spotify.exe)
-Netflix(netflix.exe)
-YouTube(youtube.exe)
-iTunes(itunes.exe)
-Kodi(kodi.exe)
-Plex(plex.exe)
-Media Player Classic(mpc.exe)
-Winamp(winamp.exe)
-Audacity(audacity.exe)
-PotPlayer(potplayer.exe)
-GOM Player(gom.exe)
-TIDAL(tidal.exe)
-Facebook(facebook.exe)
-Instagram(instagram.exe)
-Twitter(twitter.exe)
-TikTok(tiktok.exe)
-Snapchat(snapchat.exe)
-LinkedIn(linkedin.exe)
-Reddit(reddit.exe)
-Pinterest(pinterest.exe)
-Tumblr(tumblr.exe)
-Telegram(telegram.exe)
-WeChat(wechat.exe)
-VK(vk.exe)
-LINE(line.exe)
-WhatsApp(whatsapp.exe)
-Messenger(messenger.exe)
-Skype(skype.exe)
-Zoom(zoom.exe)
-Slack(slack.exe)
-Discord(discord.exe)
-Microsoft Teams(teams.exe)
-Signal(signal.exe)
-Viber(viber.exe)
-ICQ(icq.exe)
-Wire(wire.exe)
-Element(element.exe)
-Google Meet(meet.exe)
-Adobe Photoshop(photoshop.exe)
-GIMP(gimp.exe)
-CorelDRAW(coreldraw.exe)
-Adobe Illustrator(illustrator.exe)
-Paint.NET(paintdotnet.exe)
-Inkscape(inkscape.exe)
-Affinity Designer(affinitydesigner.exe)
-Krita(krita.exe)
-Blender(blender.exe)
-Autodesk Sketchbook(sketchbook.exe)
-Canva(canva.exe)
-Adobe XD(adobexd.exe)
-Figma(figma.exe)
-Microsoft Word(word.exe)
-Microsoft Excel(excel.exe)
-Microsoft PowerPoint(powerpoint.exe)
-WPS Office(wps.exe)
-LibreOffice(libreo.exe)
-Google Docs(docs.exe)
+Facebook Messenger (Messenger.exe)
+
+WhatsApp (WhatsApp.exe)
+
+Telegram (Telegram.exe)
+
+Discord (Discord.exe)
+
+Skype (Skype.exe)
+
+Zoom (Zoom.exe)
+
+Slack (Slack.exe)
+
+Microsoft Teams (Teams.exe)
+
+Viber (Viber.exe)
+
+LINE (LINE.exe)
+
+WeChat (WeChat.exe)
+
+Signal (Signal.exe)
+
+ICQ (ICQ.exe)
+
+Trillian (Trillian.exe)
+
+Pidgin (pidgin.exe)
+
+TeamSpeak (TeamSpeak.exe)
+
+Element (Element.exe)
+
+Wire (Wire.exe)
+
+Jitsi (jitsi.exe)
+
+QQ International (QQ.exe)
+
+Adobe Photoshop (Photoshop.exe)
+
+Adobe Illustrator (Illustrator.exe)
+
+CorelDRAW (CorelDRW.exe)
+
+GIMP (gimp-2.10.exe)
+
+Paint.NET (PaintDotNet.exe)
+
+Krita (krita.exe)
+
+Inkscape (inkscape.exe)
+
+Blender (blender.exe)
+
+Autodesk Maya (maya.exe)
+
+Autodesk 3ds Max (3dsmax.exe)
+
+SketchUp (SketchUp.exe)
+
+DaVinci Resolve (Resolve.exe)
+
+Adobe Premiere Pro (Adobe Premiere Pro.exe)
+
+Adobe After Effects (AfterFX.exe)
+
+Lightroom (Lightroom.exe)
+
+Affinity Photo (Photo.exe)
+
+Affinity Designer (Designer.exe)
+
+Affinity Publisher (Publisher.exe)
+
+Cinema 4D (Cinema 4D.exe)
+
+Paint Tool SAI (SAI.exe)
+
+Microsoft Word (WINWORD.EXE)
+
+Microsoft Excel (EXCEL.EXE)
+
+Microsoft PowerPoint (POWERPNT.EXE)
+
+Microsoft OneNote (ONENOTE.EXE)
+
+LibreOffice Writer (swriter.exe)
+
+LibreOffice Calc (scalc.exe)
+
+LibreOffice Impress (simpress.exe)
+
+WPS Office (wps.exe)
+
+Notepad++ (notepad++.exe)
+
+Sublime Text (sublime_text.exe)
+
+Visual Studio Code (Code.exe)
+
+Atom (atom.exe)
+
+Typora (Typora.exe)
+
+Zoho Writer (ZohoWriter.exe)
+
+Google Docs Offline (chrome.exe)
+
+Foxit PDF Editor (FoxitPDFEditor.exe)
+
+Adobe Acrobat Reader (AcroRd32.exe)
+
+SumatraPDF (SumatraPDF.exe)
+
+PDF-XChange Editor (PDFXEdit.exe)
+
+Calibre (calibre.exe)
+
+VLC Media Player (vlc.exe)
+
+PotPlayer (PotPlayerMini.exe)
+
+KMPlayer (KMPlayer.exe)
+
+MPC-HC (mpc-hc.exe)
+
+Spotify (Spotify.exe)
+
+iTunes (iTunes.exe)
+
+Winamp (winamp.exe)
+
+Foobar2000 (foobar2000.exe)
+
+Audacity (audacity.exe)
+
+OBS Studio (obs64.exe)
+
+HandBrake (HandBrake.exe)
+
+Stremio (stremio.exe)
+
+Plex (Plex.exe)
+
+Kodi (kodi.exe)
+
+Steam (steam.exe)
+
+Epic Games Launcher (EpicGamesLauncher.exe)
+
+Origin (Origin.exe)
+
+Ubisoft Connect (upc.exe)
+
+Battle.net (Battle.net.exe)
+
+Twitch (Twitch.exe)
+
+qBittorrent (qbittorrent.exe)
+
+uTorrent (uTorrent.exe)
+
+BitTorrent (BitTorrent.exe)
+
+7-Zip (7zFM.exe)
+
+WinRAR (WinRAR.exe)
+
+PeaZip (peazip.exe)
+
+CCleaner (CCleaner.exe)
+
+Revo Uninstaller (RevoUnin.exe)
+
+IObit Uninstaller (IObitUninstaler.exe)
+
+Malwarebytes (MBAM.exe)
+
+Avast Antivirus (AvastUI.exe)
+
+AVG Antivirus (AVGUI.exe)
+
+Bitdefender (Bitdefender.exe)
+
+Norton Security (Norton.exe)
+
+Kaspersky (avp.exe)
+
+VirtualBox (VirtualBox.exe)
+
+VMware Workstation (vmware.exe)
+
+Rufus (rufus.exe)
+
+Etcher (balenaEtcher.exe)
+
+TeamViewer (TeamViewer.exe)
+
+Google Chat (chat.exe)
+
+Facebook Desktop (Facebook.exe)
+
+Twitter (Twitter.exe)
+
+LinkedIn (LinkedIn.exe)
+
+Snapchat (Snapchat.exe)
+
+Tango (Tango.exe)
+
+Nimbuzz (Nimbuzz.exe)
+
+YY (YY.exe)
+
+BBM (BBM.exe)
+
+Threema (Threema.exe)
+
+Adobe Lightroom Classic (Lightroom.exe)
+
+Adobe XD (XD.exe)
+
+Figma (Figma.exe)
+
+Canva (Canva.exe)
+
+Procreate (Procreate.exe) (Windows qua WSA hoặc giả lập)
+
+Clip Studio Paint (ClipStudioPaint.exe)
+
+PaintShop Pro (PSP.exe)
+
+ZBrush (ZBrush.exe)
+
+Marvelous Designer (MarvelousDesigner.exe)
+
+Substance Painter (SubstancePainter.exe)
+
+Google Docs (chrome.exe)
+
+Google Sheets (chrome.exe)
+
+Google Slides (chrome.exe)
+
+Evernote (Evernote.exe)
+
+OneNote Desktop (ONENOTE.EXE)
+
+Notion (Notion.exe)
+
+Joplin (joplin.exe)
+
+MarkText (marktext.exe)
+
+Obsidian (Obsidian.exe)
+
+CherryTree (cherrytree.exe)
+
+Netflix (Netflix.exe)
+
+Disney+ (DisneyPlus.exe)
+
+Amazon Prime Video (PrimeVideo.exe)
+
+YouTube Music (YouTubeMusic.exe)
+
+Tidal (Tidal.exe)
+
+Deezer (Deezer.exe)
+
+SoundCloud (SoundCloud.exe)
+
+WinDVD (WinDVD.exe)
+
+PowerDVD (PowerDVD.exe)
+
+MediaMonkey (MediaMonkey.exe)
+Everything (Everything.exe)
+
+WizTree (WizTree.exe)
+
+TreeSize (TreeSize.exe)
+
+CrystalDiskInfo (DiskInfo.exe)
+
+CrystalDiskMark (DiskMark.exe)
+
+HWMonitor (HWMonitor.exe)
+
+CPU-Z (cpuz.exe)
+
+GPU-Z (GPU-Z.exe)
+
+Speccy (speccy.exe)
+
+Process Explorer (procexp.exe)
+
+NordVPN (NordVPN.exe)
+
+ExpressVPN (ExpressVPN.exe)
+
+ProtonVPN (ProtonVPN.exe)
+
+OpenVPN (openvpn-gui.exe)
+
+Wireshark (wireshark.exe)
+
+Nmap (nmap.exe)
+
+Fiddler (Fiddler.exe)
+
+GlassWire (GlassWire.exe)
+
+NetLimiter (NetLimiter.exe)
+
+Little Snitch (littlesnitch.exe) (Windows port hoặc tương tự)
+
+JetBrains IntelliJ IDEA (idea64.exe)
+
+PyCharm (pycharm64.exe)
+
+WebStorm (webstorm64.exe)
+
+PhpStorm (phpstorm64.exe)
+
+Android Studio (studio64.exe)
+
+Eclipse (eclipse.exe)
+
+NetBeans (netbeans64.exe)
+
+XAMPP (xampp-control.exe)
+
+WAMP (wampmanager.exe)
+
+Docker Desktop (Docker Desktop.exe)
+
+Total Commander (totalcmd64.exe)
+
+Directory Opus (dopus.exe)
+
+FreeCommander (FreeCommander.exe)
+
+XYplorer (XYplorer.exe)
+
+Teracopy (TeraCopy.exe)
+
+GoodSync (GoodSync.exe)
+
+SyncBack (SyncBack.exe)
+
+AOMEI Backupper (Backupper.exe)
+
+EaseUS Todo Backup (TodoBackup.exe)
+
+Macrium Reflect (reflect.exe)
+
+Camtasia (CamtasiaStudio.exe)
+
+Filmora (Wondershare Filmora.exe)
+
+HitFilm Express (HitFilm.exe)
+
+Shotcut (shotcut.exe)
+
+OpenShot (openshot-qt.exe)
+
+Vegas Pro (vegas.exe)
+
+Pinnacle Studio (Pinnacle.exe)
+
+Movavi Video Editor (MovaviEditor.exe)
+
+VideoPad (VideoPad.exe)
+
+Lightworks (lightworks.exe)
+
+FL Studio (FL64.exe)
+
+Ableton Live (Ableton Live.exe)
+
+Audition (Adobe Audition.exe)
+
+Reaper (reaper.exe)
+
+Cubase (Cubase.exe)
+
+Pro Tools (ProTools.exe)
+
+LMMS (lmms.exe)
+
+Mixxx (mixxx.exe)
+
+VirtualDJ (VirtualDJ.exe)
+
+Serato DJ (Serato DJ.exe)
+
+BlueStacks (BlueStacks.exe)
+
+NoxPlayer (Nox.exe)
+
+LDPlayer (LDPlayer.exe)
+
+MEmu (MEmu.exe)
+
+Genymotion (genymotion.exe)
+
+Parallels Desktop (Parallels.exe) (Windows trên Mac)
+
+QEMU (qemu-system-x86_64.exe)
+
+DOSBox (dosbox.exe)
+
+RetroArch (retroarch.exe)
+
+Citrix Workspace (CitrixReceiver.exe)
+
+MATLAB (matlab.exe)
+
+RStudio (rstudio.exe)
+
+SPSS (spss.exe)
+
+Tableau (Tableau.exe)
+
+JASP (JASP.exe)
+
+Minitab (Minitab.exe)
+
+SAS (sas.exe)
+
+Stata (stata.exe)
+
+OriginLab (Origin.exe)
+
+LabVIEW (labview.exe)
+
+Rockstar Games Launcher (RockstarGamesLauncher.exe)
+
+GOG Galaxy (GalaxyClient.exe)
+
+GeForce Experience (NVIDIA GeForce Experience.exe)
+
+AMD Radeon Software (RadeonSoftware.exe)
+
+MSI Afterburner (MSIAfterburner.exe)
+
+Razer Synapse (Razer Synapse.exe)
+
+Logitech G HUB (lghub.exe)
+
+Cheat Engine (cheatengine-x86_64.exe)
+
+OBS (obs64.exe) (Streaming)
+
+XSplit (xsplit.exe)
+
+Google Chrome (chrome.exe)
+
+Mozilla Firefox (firefox.exe)
+
+Microsoft Edge (msedge.exe)
+
+Opera (opera.exe)
+
+Brave (brave.exe)
+
+Vivaldi (vivaldi.exe)
+
+Tor Browser (tor.exe)
+
+Waterfox (waterfox.exe)
+
+Pale Moon (palemoon.exe)
+
+Maxthon (maxthon.exe)
+iTunes (iTunes.exe) (Quản lý iPhone)
+
+3uTools (3uTools.exe)
+
+iMazing (iMazing.exe)
+
+AirDroid (AirDroid.exe)
+
+Mobizen (Mobizen.exe)
+
+ApowerManager (ApowerManager.exe)
+
+Droid4X (Droid4X.exe)
+
+KingoRoot (KingoRoot.exe)
+
+Odin (Odin.exe) (Flash Samsung)
+
+Rufus (rufus.exe) (Tạo USB boot)
+Adobe Animate (Animate.exe)
+
+Adobe InDesign (InDesign.exe)
+
+Adobe Dimension (Dimension.exe)
+
+Adobe Substance 3D Designer (Substance3DDesigner.exe)
+
+Adobe Fresco (Fresco.exe)
+
+Adobe Character Animator (CharacterAnimator.exe)
+
+Adobe Bridge (Bridge.exe)
+
+Adobe Media Encoder (Adobe Media Encoder.exe)
+
+Adobe Audition (Audition.exe) (Xử lý âm thanh cho video/game)
+
+Adobe Aero (Aero.exe) *(AR/3D design)*
+
+Affinity Publisher (Publisher.exe) (Thiết kế xuất bản)
+
+Capture One (CaptureOne.exe) (Chỉnh ảnh chuyên nghiệp)
+
+DxO PhotoLab (DxOPhotoLab.exe)
+
+PhotoScape X (PhotoScapeX.exe)
+
+FastStone Image Viewer (FSViewer.exe)
+
+IrfanView (i_view64.exe)
+
+XnView (xnview.exe)
+
+Darktable (darktable.exe)
+
+RawTherapee (rawtherapee.exe)
+
+Photopea (Photopea.exe) (Web-based nhưng có PWA)
+
+Microsoft Word Online (WinWord.exe) (Offline/Online)
+
+Google Docs Offline (chrome.exe) (Chế độ offline)
+
+AbiWord (abiword.exe) (Nhẹ, thay thế Word)
+
+FocusWriter (FocusWriter.exe) (Viết không phân tâm)
+
+Scrivener (Scrivener.exe) (Viết sách, kịch bản)
+
+Ulysses (Ulysses.exe) (Mac nhưng có phiên bản Windows qua Catalyst)
+
+WriteMonkey (WriteMonkey.exe) (Trình soạn thảo tối giản)
+
+Manuskript (manuskript.exe) (Công cụ viết tiểu thuyết)
+
+Sigil (Sigil.exe) (Biên tập eBook EPUB)
+
+Calibre Editor (ebook-edit.exe) (Chỉnh sửa eBook)
+
+LaTeX (texworks.exe) (Soạn thảo tài liệu học thuật)
+
+LyX (lyx.exe) (Front-end cho LaTeX)
+
+Scribus (scribus.exe) (Dàn trang chuyên nghiệp)
+
+Apache OpenOffice Writer (swriter.exe) (Tương tự LibreOffice)
+
+SoftMaker FreeOffice (TextMaker.exe) (Tương thích Word)
+
+Google Hangouts (hangouts.exe) (Cũ, thay thế bằng Chat)
+
+Facebook Workplace (Workplace.exe) (Chat doanh nghiệp)
+
+Mattermost (mattermost-desktop.exe) (Slack alternative mã nguồn mở)
+
+Rocket.Chat (rocketchat.exe) (Chat server tự host)
+
+Tox (qTox.exe) (Chat bảo mật P2P)
+
+Session (session-desktop.exe) (Chat ẩn danh)
+
+Briar (briar.exe) (Chat không cần Internet)
+
+Element (element.exe) (Matrix client)
+
+Jami (jami.exe) (Chat & gọi video P2P)
+
+RetroShare (retroshare.exe) (Mạng xã hội phân tán)
+
+Wickr Me (wickr.exe) (Chat mã hóa đầu cuối)
+
+Dust (dust.exe) (Tin nhắn tự hủy)
+
+ChatSecure (chatsecure.exe) (XMPP mã hóa)
+
+Paltalk (paltalk.exe) (Chat video nhóm)
+
+Brosix (brosix.exe) (Chat doanh nghiệp an toàn)
+
+Topaz Gigapixel AI (TopazGigapixelAI.exe) (Phóng to ảnh bằng AI)
+
+Luminar AI (LuminarAI.exe) (Chỉnh ảnh AI)
+
+Deep Dream Generator (DeepDream.exe) (Tạo ảnh nghệ thuật AI)
+
+Artbreeder (Artbreeder.exe) (Lai tạo ảnh bằng AI)
+
+Grammarly (Grammarly.exe) (Kiểm tra ngữ pháp)
+
+ProWritingAid (ProWritingAid.exe) (Hiệu đính văn bản)
+
+Hemingway Editor (Hemingway.exe) (Tối giản văn bản)
+
+OmegaT (OmegaT.exe) (Phần mềm dịch thuật)
+
+Zoho Cliq (ZohoCliq.exe) (Chat nhóm doanh nghiệp)
+
+Flock (flock.exe) (Slack alternative)
